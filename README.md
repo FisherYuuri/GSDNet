@@ -40,7 +40,7 @@ pip install ultralytics
 ```
 python train.py --dataset dataset/SSGD/SSGD.yaml --batch 64 --size m --imgsz 640
 ```
-### Test
+### Test GSDNet
 ```
 python val.py --anno_json dataset/SSGD/annotations/instances_val.json --save_path /path/to/save/results --model_weights /path/to/your/model/weights/best.pt
 ```
