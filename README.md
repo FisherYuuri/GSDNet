@@ -45,4 +45,4 @@ python train.py --dataset dataset/SSGD/SSGD.yaml --batch 64 --size m --imgsz 640
 python val.py --anno_json dataset/SSGD/annotations/instances_val.json --save_path /path/to/save/results --model_weights /path/to/your/model/weights/best.pt
 ```
 ### Acknowledgments
-We would like to thank the developers of [YOLO]([https://github.com/open-mmlab/mmsegmentation](https://github.com/ultralytics/ultralytics)) for their open-source contributions, which greatly supported the development of our work.
+We would like to thank the developers of [YOLO](https://github.com/ultralytics/ultralytics) for their open-source contributions, which greatly supported the development of our work.
