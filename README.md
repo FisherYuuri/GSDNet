@@ -6,10 +6,10 @@ We provide the download link for our custom dataset. For the open-source glass d
 | Dataset     | Type                           | Download Link |
 |-------------|--------------------------------|---------------|
 | SSGD        | Mobile Screen Glass Defects   | [Github](https://github.com/VincentHancoder/SSGD) |
-| AiGD        | Aircraft Glass Defects        | [Github](https://github.com/core128/AGDD) |
-| AuGD        | Automotive Glass Defects      | [Paper](https://pan.baidu.com/s/17zOqLvPzQ6-_7U6au4U_dw?pwd=itx4)|
-| RSGD        | Recycled Mobile Screen Defects| [BaiduDisk](https://pan.baidu.com/s/17zOqLvPzQ6-_7U6au4U_dw?pwd=itx4) |
-| CGD         | Construction Glass Defects    | [BaiduDisk](https://pan.baidu.com/s/17zOqLvPzQ6-_7U6au4U_dw?pwd=itx4) |
+| AiGD        | Aircraft Glass Defects        | [Github](https://github.com/core128/AGDD)\|[BaiduDisk](https://pan.baidu.com/s/1ZgFMBykpl2OInRYTULn9xQ?pwd=we24) |
+| AuGD        | Automotive Glass Defects      | [Paper](https://link.springer.com/article/10.1007/s00371-023-03225-x)|
+| RSGD        | Recycled Mobile Screen Defects| [BaiduDisk](https://pan.baidu.com/s/1d3F1-1EQ3LcBOYfLZVMFrw?pwd=9c4v) |
+| CGD         | Construction Glass Defects    | [BaiduDisk](https://pan.baidu.com/s/1wkaY7qSshOxYLzn0uVEENw?pwd=a2n4) |
 
 Please place the downloaded datasets in the following path:
 - `dataset/`: Root directory for the dataset.
@@ -52,5 +52,34 @@ For any question, feel free to email <22225179@zju.edu.cn>
 We would like to thank the developers of [YOLO](https://github.com/ultralytics/ultralytics) for their open-source contributions, which greatly supported the development of our work.
 Additionally, we would like to thank the following authors for their open-source contributions.
 ```
-
+@article{chen2024defect,
+  title={Defect detection in automotive glass based on modified YOLOv5 with multi-scale feature fusion and dual lightweight strategy},
+  author={Chen, Zhe and Huang, Shihao and Lv, Hui and Luo, Zhixue and Liu, Jinhao},
+  journal={The Visual Computer},
+  pages={1--14},
+  year={2024},
+  publisher={Springer}
+}
+```
+```
+@inproceedings{han2023ssgd,
+  title={SSGD: A smartphone screen glass dataset for defect detection},
+  author={Han, Haonan and Yang, Rui and Li, Shuyan and Hu, Runze and Li, Xiu},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE}
+}
+```
+```
+@article{li2024dual,
+  title={Dual-Modal Illumination System for Defect Detection of Aircraft Glass Canopies},
+  author={Li, Zijian and Yao, Yong and Wen, Runyuan and Liu, Qiyang},
+  journal={Sensors},
+  volume={24},
+  number={20},
+  pages={6717},
+  year={2024},
+  publisher={MDPI}
+}
 ```
