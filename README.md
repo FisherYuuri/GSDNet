@@ -25,9 +25,11 @@ Please place the downloaded datasets in the following path:
       - `val/`: Validation labels for the SSGD.
     - `SSGD.yaml`: Configuration file for the SSGD dataset.
     ...
-   
-    
+
+![image](Fig1.png)
+![image](Fig11.png)    
 # GSDNet
+![image](Fig3.png)
 ## Code
 ### Setup
 ```
