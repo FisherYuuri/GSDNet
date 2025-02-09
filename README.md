@@ -26,10 +26,10 @@ Please place the downloaded datasets in the following path:
     - `SSGD.yaml`: Configuration file for the SSGD dataset.
     ...
 
-![image](Fig1.png)
-![image](Fig11.png)    
+![image](Fig.1.png)
+![image](Fig.11.png)    
 # GSDNet
-![image](Fig3.png)
+![image](Fig.3.png)
 ## Code
 ### Setup
 ```
